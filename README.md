@@ -12,8 +12,8 @@ My name is Yuliуa, and I am a **Manual Quality Assurance Engineer**. Here, I sh
 - 🎓 Have a higher education degree and completed a functional software testing course – certificate 
 - 📂 Compiled test documentation and study cases – all available in my repositories
 - 🛠 Work with web and mobile applications, testing APIs and databases  
-- 📚 Learning Swift and Python, gradually diving into test automation
-- ☕ In my free time, I study documentation, read articles, and explore new testing tools
+- 📚 I'm gradually learning Swift and Python.
+- ☕ In my free time, I study documentation, read various articles, and analyze new testing tools.
 - ✨ Love my profession, good coffee, and light music
 
 ---
