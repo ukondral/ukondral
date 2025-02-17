@@ -7,7 +7,7 @@ My name is Yuliуa, and I am a **Manual Quality Assurance Engineer**. Here, I sh
 
 ---
 
-### 📝 **A Bit About Me**  
+### 📝 **A bit about me**  
 - ✅ Attentive and detail-oriented in my work
 - 🎓 Have a higher education degree and completed a functional software testing course – certificate 
 - 📂 Compiled test documentation and study cases – all available in my repositories
