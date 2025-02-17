@@ -1,7 +1,7 @@
 
 ## 👋 Hello, welcome to my GitHub!
 
----
+
 
 My name is Yuliуa, and I am a **Manual Quality Assurance Engineer**. Here, I share materials on web and mobile testing that I compile while exploring technologies and working on learning projects.
 
