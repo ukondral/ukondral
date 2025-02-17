@@ -82,7 +82,6 @@
 <li>  <a href="https://github.com/ukondral/database"> database </a>   </li>
 <li> <a href="https://github.com/ukondral/api"> api </a>   </li>
 <li>  <a href="https://github.com/ukondral/web"> web </a>  </li>
-<li>  <a href="https://github.com/ukondral/image"> image </a>   </li>
 <li> <a href="https://github.com/ukondral/docs"> docs </a>  </li>
 <li> <a href="https://github.com/ukondral/design"> design </a>  </li>
 <li> <a href="https://github.com/ukondral/theory"> theory </a> </li>
